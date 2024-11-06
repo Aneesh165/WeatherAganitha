@@ -1,0 +1,12 @@
+.weather-container {
+    background: #f0f8ff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  input, button {
+    margin: 5px;
+    padding: 10px;
+  }
+  
